@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 </ul>
 
-<h3>Recent personal projects</h3>
+<h3>Recent projects</h3>
 <ul>
   <li>📦<a href="https://github.com/Nikitin-pro/Russian-MultiWOZ">Russian MultiWOZ - benchmark for dialogue systems</a></li>
 
