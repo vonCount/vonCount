@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   <li>🌟 Fields I like the most: NLP, Speech-to-Text and Computer Vision 🤖</li>
   <li>⛳ I always like to learn new things</li>
   <li>🦖 Strongly support the Open Source movement</li>
-  <li>📫 How to reach me: 
   <li>😄 Pronouns: he/him</li>
   
 </ul>
