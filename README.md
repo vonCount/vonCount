@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=orange" /> 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=orange" /> 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=orange" /> 
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=orange" /> 
 <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=orange" /> 
 <img alt="Django" src="https://img.shields.io/badge/-Django-1a1a1a?style=flat-square&logo=django&logoColor=orange" /> 
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=orange" /> 
