@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 <h3>Find me on</h3>
 <p>
-<a href="mailto:ianikitin93.m@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>
+<a href="mailto:ianikitin93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>
 <a href="https://www.facebook.com/Nikitin101"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=orange" /></a> 
-<a href="https://br.linkedin.com/in/junior"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" /></a>
+<a href="https://ru.linkedin.com/in/junior"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" /></a>
 </p>
 
 <!-- ![Deliton's github stats](https://github-readme-stats.vercel.app/api?username=deliton&theme=gruvbox)-->
