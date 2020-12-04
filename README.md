@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3>Quick facts</h3>
 <ul>
   <li>📖 Currently studying data science and computational linguistics</li>
-  <li>🌟 Fields I like the most: NLP, Speech-to-Text and Computer Vision 🤖</li>
+  <li>🌟 Fields I like the most: NLP, Speech-to-Text and Computer Vision </li>
   <li>⛳ I always like to learn new things</li>
   <li>🦖 Strongly support the Open Source movement</li>
   <li>😄 Pronouns: he/him</li>
