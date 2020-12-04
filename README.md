@@ -43,19 +43,18 @@ Here are some ideas to get you started:
 
 <h3>Some tools I use</h3>
 <p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=orange" />  
+<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=orange" /> 
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=orange" /> 
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=orange" /> 
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=orange" /> 
 <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=orange" /> 
+<img alt="Django" src="https://img.shields.io/badge/-Django-1a1a1a?style=flat-square&logo=django&logoColor=orange" /> 
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=orange" /> 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=orange" /> 
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=orange" /> 
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=orange" /> 
-<img alt="Apollo" src="https://img.shields.io/badge/-Apollo-1a1a1a?style=flat-square&logo=apollo-graphql&logoColor=orange" /> 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logo=docker&logoColor=orange" /> 
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=orange" /> 
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=orange" /> 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=orange" /> 
-<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=orange" /> 
-<img alt="Django" src="https://img.shields.io/badge/-Django-1a1a1a?style=flat-square&logo=django&logoColor=orange" /> 
-<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=orange" /> 
 </p>
 
 <h3>Find me on</h3>
