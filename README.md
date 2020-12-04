@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p>I'm Ilya Nikitin, a data scientist from Russia <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and welcome to my Github Page. I like to build cool stuff and solve real world problems. I hope that someday, I'll be able to do something meaningful and help the world for the better.</p>
 
-<img align="right" height="300" alt="GIF" src="sesame.gif" />
+<img align="right" height="200" alt="GIF" src="sesame.gif" />
 
 <h3>Quick facts</h3>
 <ul>
